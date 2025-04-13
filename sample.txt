@@ -1,3 +1,5 @@
 This is the sample file
 
-I am doing testing for git
+I am doing testing for gi
+
+With added lines
